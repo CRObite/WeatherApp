@@ -1,0 +1,15 @@
+.full{
+  padding: 20px;
+  background-image: url('https://source.unsplash.com/1600x900/?landscape');
+  background-size: cover;
+}
+
+.container{
+  max-width: 1080px;
+  margin: auto;
+  padding: 10px;
+  background-color: rgba(99, 223, 254, 0.4);
+  border-radius: 15px;
+  
+}
+
